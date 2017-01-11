@@ -1,6 +1,6 @@
 # SpeckJS
 <insert tagline here>
-
+------
 ## About SpeckJS
 SpeckJS is an npm module that will parse code and output unit test specs based on the parameters specified by the user. We currently support [Tape tests](https://github.com/substack/tape) and we will be adding support for other testing suites soon.
 
